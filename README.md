@@ -1,1 +1,1 @@
-#LendIt Website!
+# LendIt Website
